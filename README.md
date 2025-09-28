@@ -2,7 +2,7 @@
 
 
 
-\# 🏦 Power BI Bank Loan Portfolio Analysis: From SQL to Strategy
+# 🏦 Power BI Bank Loan Portfolio Analysis: From SQL to Strategy
 
 
 
@@ -18,7 +18,7 @@ The goal is to provide executive and risk management teams with clear, real-time
 
 
 
-\## 📂 Project Repository Files
+## 📂 Project Repository Files
 
 
 
@@ -40,7 +40,7 @@ This repository contains both the documentation and the final presentation layer
 
 
 
-\## 📈 Key Performance Indicators (KPIs) \& Metrics
+## 📈 Key Performance Indicators (KPIs) \& Metrics
 
 
 
@@ -48,7 +48,7 @@ The analysis is driven by robust SQL and DAX logic to calculate three critical c
 
 
 
-\### 1. Portfolio Volume \& Growth
+### 1. Portfolio Volume \& Growth
 
 These metrics track the scale and momentum of lending operations, essential for performance review and forecasting.
 
@@ -64,7 +64,7 @@ These metrics track the scale and momentum of lending operations, essential for 
 
 
 
-\### 2. Risk \& Profitability Indicators
+### 2. Risk \& Profitability Indicators
 
 These are the quantitative measures of portfolio quality and return.
 
@@ -76,7 +76,7 @@ These are the quantitative measures of portfolio quality and return.
 
 
 
-\### 3. Risk Management: Good vs. Bad Loans
+### 3. Risk Management: Good vs. Bad Loans
 
 A central feature is the binary categorization of the loan book for instant risk assessment.
 
@@ -96,7 +96,7 @@ A central feature is the binary categorization of the loan book for instant risk
 
 
 
-\## 💻 Technical Architecture
+## 💻 Technical Architecture
 
 
 
@@ -112,7 +112,7 @@ The project seamlessly integrates three layers of technology to create the final
 
 
 
-\## 🚀 Getting Started \& Viewing the Dashboard
+## 🚀 Getting Started \& Viewing the Dashboard
 
 
 
@@ -120,13 +120,13 @@ No complex installation or environment setup is required to interact with the fi
 
 
 
-\### Prerequisites
+### Prerequisites
 
 \* \*\*Power BI Desktop:\*\* Required to open and view the `.pbix` file. (Available as a free download from Microsoft).
 
 
 
-\### Instructions
+### Instructions
 
 1\.  Download or clone the repository.
 
@@ -140,7 +140,7 @@ No complex installation or environment setup is required to interact with the fi
 
 
 
-\## 🤝 Contribution
+## 🤝 Contribution
 
 
 
